@@ -256,6 +256,7 @@
     position: relative;
     height: 220px;
     overflow: hidden;
+    background: linear-gradient(135deg, #1976d2 0%, #00897b 100%);
   }
 
   .portal-module-image img {
@@ -394,6 +395,8 @@
         Formació Professional · Informàtica
       </div>
 
+      <h1>Portal de recursos</h1>
+
       <p class="portal-hero-subtitle">
         Recursos, continguts i activitats per als mòduls del cicle de
         <strong>Desenvolupament d’Aplicacions Web</strong>.
@@ -477,6 +480,7 @@
             <img
               src="./img/LMSGI.png"
               alt="Llenguatges de Marques i Sistemes de Gestió d’Informació"
+              onerror="this.remove()"
             >
           </div>
 
@@ -511,6 +515,7 @@
             <img
               src="./img/BBDD.png"
               alt="Bases de Dades"
+              onerror="this.remove()"
             >
           </div>
 
