@@ -772,7 +772,7 @@
     <a class="portal-brand" href="#inici" aria-label="Inici del portal">
       <span class="portal-brand-mark" aria-hidden="true">M</span>
       <span class="portal-brand-text">
-        <strong>Manuel Alonso Argente</strong>
+        <strong>Portal de recursos formatius</strong>
         <small>Formació Professional · Informàtica</small>
       </span>
     </a>
